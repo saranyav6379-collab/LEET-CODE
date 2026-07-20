@@ -1,1 +1,1 @@
-# DAY-1-LEET-CODE
+# LEET-CODE
